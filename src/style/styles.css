@@ -1,0 +1,18 @@
+
+
+
+.slider{
+    padding-top: 20px;
+    padding-left: 300px;
+    width: 100%;
+}
+
+
+
+
+@media only screen and (max-width: 600px){
+    .slider{
+        background-color: rgb(186, 3, 2);
+        height: 1000px;
+    }
+}

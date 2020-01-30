@@ -1,0 +1,388 @@
+{
+    "schema": {
+        "fields": [
+            {
+                "name": "index",
+                "type": "integer"
+            },
+            {
+                "name": "productname",
+                "type": "string"
+            },
+            {
+                "name": "price",
+                "type": "string"
+            },
+            {
+                "name": "image",
+                "type": "string"
+            }
+        ],
+        "primaryKey": [
+            "index"
+        ],
+        "pandas_version": "0.20.0"
+    },
+    "data": [
+        {
+            "index": 0,
+            "productname": "Buku 101 KISAH Orang Orang yang Dikabulkan Doa nya By Ust Abd SomadRp 20.000Jakarta Pusatkwitangjaya27(136)",
+            "price": "Rp 20.000",
+            "image": "https:\/\/ecs7.tokopedia.net\/img\/cache\/200-square\/product-1\/2018\/11\/13\/2624683\/2624683_68208e3a-1323-4942-ad0d-a361f8b4caf8_1152_1152.jpg"
+        },
+        {
+            "index": 1,
+            "productname": "Buku Mewarnai TokohKartun Tayo Pony Frozen dll belajar membaca menulisRp 3.500Jakarta SelatanALIDA(33)Grosir",
+            "price": "Rp 3.500",
+            "image": "https:\/\/ecs7.tokopedia.net\/img\/cache\/200-square\/product-1\/2019\/6\/30\/233064\/233064_e951ded2-9a5a-4210-b674-607edbaa4478_2048_2048.jpg"
+        },
+        {
+            "index": 2,
+            "productname": "Buku Tanda Terima rangkap 2Rp 3.250Jakarta UtaraKBY SHOP(132)Grosir",
+            "price": "Rp 3.250",
+            "image": "https:\/\/ecs7.tokopedia.net\/img\/cache-p\/200-square\/product-1\/2015\/9\/7\/222157\/222157_a354f15a-5507-11e5-83c3-383a87772fba.jpg"
+        },
+        {
+            "index": 3,
+            "productname": "Buku Rahasia Magnet Rezeki Menarik Rezeki Dahsyat dengan Cara AllahRp 45.100SemarangGROSIR BUKU LARIS(86)",
+            "price": "Rp 45.100",
+            "image": "https:\/\/ecs7.tokopedia.net\/img\/cache\/200-square\/product-1\/2018\/11\/23\/19050592\/19050592_db3ed71d-6a03-41a0-bec4-d456bdf4155e_425_652.jpg"
+        },
+        {
+            "index": 4,
+            "productname": "Buku EUFLORIA : A BTS Fan Art Story Book Bonus posterRp 98.000TangerangOPID Merchandise(20)",
+            "price": "Rp 98.000",
+            "image": "https:\/\/ecs7.tokopedia.net\/img\/cache\/200-square\/product-1\/2019\/2\/10\/12744178\/12744178_fd96a8ec-3a19-42fd-aee7-d8ede478aa2a_1080_1080.jpeg"
+        },
+        {
+            "index": 5,
+            "productname": "EELIC BU203X1 Fungsi Bunyi kain Buku Bayi Mainan 6 MacamRp 18.000SurabayaEELIC(39)Grosir",
+            "price": "Rp 18.000",
+            "image": "https:\/\/ecs7.tokopedia.net\/img\/cache\/200-square\/product-1\/2016\/9\/20\/6122683\/6122683_2ab72f2d-a8d7-428a-96f9-36c0c7a40b35.jpg"
+        },
+        {
+            "index": 6,
+            "productname": "[1SET-4 Buku] Sahabat Sahabat Rasulullah Pustaka Ibnu Katsir- KarmediaRp 270.000Bekasikarmedia(87)",
+            "price": "Rp 270.000",
+            "image": "https:\/\/ecs7.tokopedia.net\/img\/cache\/200-square\/product-1\/2016\/3\/21\/6683194\/6683194_20cd3243-2dfa-4a2a-9058-2ec21601f438.jpg"
+        },
+        {
+            "index": 7,
+            "productname": "Paket Buku Tematik SD kelas. 3 Semester 2 Tema. 5,6,7,8Rp 97.500Jakarta PusatGiri Pustaka(39)",
+            "price": "Rp 97.500",
+            "image": "https:\/\/ecs7.tokopedia.net\/img\/cache\/200-square\/product-1\/2018\/11\/7\/969738\/969738_0a9ccb60-cf0f-484d-8c8c-19fec3cd185c_1560_1560.jpg"
+        },
+        {
+            "index": 8,
+            "productname": "Buku UTBK SBMPTN 2020 SOSHUMRp 92.625Jakarta PusatToko Buku Duta(21)",
+            "price": "Rp 92.625",
+            "image": "https:\/\/ecs7.tokopedia.net\/img\/cache\/200-square\/product-1\/2019\/8\/12\/41259305\/41259305_3fc24119-8765-419d-9d1f-218490f5ff7b_1280_1280"
+        },
+        {
+            "index": 9,
+            "productname": "ISIHARA TEST \/BUKU TEST BUTA WARNARp 26.000Jakarta TimurNusantara Medika jaya(72)",
+            "price": "Rp 26.000",
+            "image": "https:\/\/ecs7.tokopedia.net\/img\/cache\/200-square\/product-1\/2016\/9\/1\/1248802\/1248802_9daf2b4b-1dba-4d87-904b-639d9eaaad4a.jpg"
+        },
+        {
+            "index": 10,
+            "productname": "Serial Kisah Nabi & Rasul Lengkap 7 Jilid - Buku Cerita Anak IslamiRp 107.000Jakarta TimurPustaka Hanif(223)Grosir",
+            "price": "Rp 107.000",
+            "image": "https:\/\/ecs7.tokopedia.net\/img\/cache\/200-square\/product-1\/2019\/10\/12\/5380877\/5380877_deb8943c-3f5e-4680-abfc-278f5214fa0a_700_700"
+        },
+        {
+            "index": 11,
+            "productname": "Buku Rahasia Magnet Rezeki by NasrullahRp 63.000TangerangOPID Merchandise(41)",
+            "price": "Rp 63.000",
+            "image": "https:\/\/ecs7.tokopedia.net\/img\/cache\/200-square\/product-1\/2019\/6\/30\/12744178\/12744178_cd1dcea2-c974-49f2-b0ed-f3fc9d63cb89_500_500"
+        },
+        {
+            "index": 12,
+            "productname": "Buku Metode Tajwid Praktis Asy Syafii - Pustaka Imam Asy SyafiiRp 22.000BekasiPUSTAKA DAK'WAH(57)",
+            "price": "Rp 22.000",
+            "image": "https:\/\/ecs7.tokopedia.net\/img\/cache\/200-square\/product-1\/2019\/1\/22\/10532415\/10532415_5f23b37f-3fad-495f-a048-2133d6c4abb8_421_647.jpg"
+        },
+        {
+            "index": 13,
+            "productname": "Mantappu Jiwa *Buku Latihan Soal By: Jerome Polin SijabatRp 76.000Jakarta BaratBukuGalileo(120)",
+            "price": "Rp 76.000",
+            "image": "https:\/\/ecs7.tokopedia.net\/img\/cache\/200-square\/product-1\/2019\/8\/16\/2444499\/2444499_8325a80c-305d-45c1-b861-dc247010bead.jpg"
+        },
+        {
+            "index": 14,
+            "productname": "TEMURAH!!! Buku Tulis SINAR DUNIA \/ SIDU 10x38 LembarRp 22.900Jakarta BaratAtk Grosir Murah(143)",
+            "price": "Rp 22.900",
+            "image": "https:\/\/ecs7.tokopedia.net\/img\/cache\/200-square\/product-1\/2018\/6\/20\/21661881\/21661881_e4874369-5c9c-4d15-abff-01b879f4ace6_1000_817.jpg"
+        },
+        {
+            "index": 15,
+            "productname": "Buku Siswa Kelas 7 IPS Revisi 2016Rp 22.200Surabayasbybooksonline(106)",
+            "price": "Rp 22.200",
+            "image": "https:\/\/ecs7.tokopedia.net\/img\/cache\/200-square\/product-1\/2016\/7\/14\/6626642\/6626642_3cfecbb8-5527-43fa-b1d8-c86b76bc9e3c.jpg"
+        },
+        {
+            "index": 16,
+            "productname": "CMS005 Mainan Buku Gambar Bisa Dihapus 6 Halaman dan 4 Pensil WarnaRp 55.100BatamMmtoys Indonesia(8)",
+            "price": "Rp 55.100",
+            "image": "https:\/\/ecs7.tokopedia.net\/img\/cache\/200-square\/product-1\/2019\/10\/31\/18453011\/18453011_f525650b-d755-4da1-8325-2930955ea7b5_800_800"
+        },
+        {
+            "index": 17,
+            "productname": "Buku Death Note Kecil Anime Death Note L KiraRp 60.000BandungAnime Superheroes(58)",
+            "price": "Rp 60.000",
+            "image": "https:\/\/ecs7.tokopedia.net\/img\/cache\/200-square\/product-1\/2019\/10\/9\/11057868\/11057868_604bc7a4-4c9a-44a2-bcc1-49aff823fc94_1368_1368"
+        },
+        {
+            "index": 18,
+            "productname": "Buku TAKTIS UKMPPD -Uji Kompetensi Mahasiswa Program Profesi Dokter-20%Rp 175.000Rp 140.000Jakarta PusatEdu Penguin Kompas Ilmu(11)",
+            "price": "Rp 140.000",
+            "image": "https:\/\/ecs7.tokopedia.net\/img\/cache\/200-square\/product-1\/2019\/2\/13\/37680090\/37680090_d5027708-ee3f-4ca1-aa41-9ba738173e2b_2048_2907.jpg"
+        },
+        {
+            "index": 19,
+            "productname": "Buku KIA cetakan 2019 - Kualitas Cetakan BagusRp 8.500SurabayaDistroLava(43)Grosir",
+            "price": "Rp 8.500",
+            "image": "https:\/\/ecs7.tokopedia.net\/img\/cache\/200-square\/product-1\/2019\/11\/3\/439791713\/439791713_dc1ef169-9c3f-448a-a41b-5a8c913bab58_1080_1080.jpg"
+        },
+        {
+            "index": 20,
+            "productname": "Buku Kartu Nama 288 CardRp 30.500Jakarta Timurofficemart(287)",
+            "price": "Rp 30.500",
+            "image": "https:\/\/ecs7.tokopedia.net\/img\/cache\/200-square\/product-1\/2015\/9\/29\/12978639\/12978639_1e98277c-d338-4434-a2e6-c21e49757935.jpg"
+        },
+        {
+            "index": 21,
+            "productname": "BUKU BICARA ITU ADA SENINYA - KERTAS BOOKPAPERRp 19.000Jakarta PusatTeladan book store(56)",
+            "price": "Rp 19.000",
+            "image": "https:\/\/ecs7.tokopedia.net\/img\/cache\/200-square\/product-1\/2018\/11\/14\/2292920\/2292920_53bc856a-b6e6-4836-863d-0219ec4a7df7_1500_1500.jpg"
+        },
+        {
+            "index": 22,
+            "productname": "KAIN BRUDU \/ BLUDRU KABULON (Untuk Kotak perhiasan, buku yasin, dll)Rp 17.450Jakarta PusatCnK CUSHION(169)Grosir",
+            "price": "Rp 17.450",
+            "image": "https:\/\/ecs7.tokopedia.net\/img\/cache\/200-square\/product-1\/2018\/12\/11\/179345321\/179345321_2e5593dc-9ed8-45c0-ae5d-90b3915e8502_1280_1280.jpg"
+        },
+        {
+            "index": 23,
+            "productname": "BUKU NOTA KONTAN KECIL 1 PLY HVS \/ NOTA KONTAN 1 RANGKAPRp 1.400Jakarta BaratDunia Tape(56)",
+            "price": "Rp 1.400",
+            "image": "https:\/\/ecs7.tokopedia.net\/img\/cache\/200-square\/product-1\/2019\/6\/29\/2534892\/2534892_35c82ac6-7238-4b71-a1ef-da2e9f2b1caa_1512_1512.jpg"
+        },
+        {
+            "index": 24,
+            "productname": "Paket Buku Kisah Tanah JawaRp 153.500YogyakartaToko Amalia Online(27)Grosir",
+            "price": "Rp 153.500",
+            "image": "https:\/\/ecs7.tokopedia.net\/img\/cache\/200-square\/product-1\/2019\/7\/23\/1736494\/1736494_27cfa031-3085-46ed-a98c-636a3ba2590d_1440_1440.jpg"
+        },
+        {
+            "index": 25,
+            "productname": "POTENTATE A4 Sketchbook 110 Sheets 100gsm Kertas Buku Gambar & SketsaRp 85.000BandungArtemedia Shop(32)",
+            "price": "Rp 85.000",
+            "image": "https:\/\/ecs7.tokopedia.net\/img\/cache\/200-square\/product-1\/2020\/1\/16\/21148822\/21148822_a0d26b51-3ad4-480b-9a9f-84a5b93e8564_1500_1500"
+        },
+        {
+            "index": 26,
+            "productname": "Buku tematik kelas 2 semester 2 ed revisiRp 85.000Tangerangintaniashop(11)",
+            "price": "Rp 85.000",
+            "image": "https:\/\/ecs7.tokopedia.net\/img\/cache\/200-square\/product-1\/2018\/11\/13\/235175\/235175_98f22607-20f9-41c5-97df-e1bb9be4f20c_640_640.jpg"
+        },
+        {
+            "index": 27,
+            "productname": "Buku Stiker \/ Album Stiker \/ Sticker Book UnicornRp 28.500SurabayaStickerkulucu(11)",
+            "price": "Rp 28.500",
+            "image": "https:\/\/ecs7.tokopedia.net\/img\/cache\/200-square\/product-1\/2019\/10\/21\/3328421\/3328421_d4f7f7d4-7f85-4ee4-9bca-da853c9ab8aa_1080_1080.jpg"
+        },
+        {
+            "index": 28,
+            "productname": "BUKU ORIGINAL- MAJALAH BOBO ASLI CAMPURANRp 4.000BekasiTOKO BUKU MANDA(33)",
+            "price": "Rp 4.000",
+            "image": "https:\/\/ecs7.tokopedia.net\/img\/cache\/200-square\/product-1\/2019\/1\/28\/2384300\/2384300_ad62223b-cd8a-44f0-95f4-45285ca6d57d_720_720.jpg"
+        },
+        {
+            "index": 29,
+            "productname": "Book End 7.5 inch \/ Penyangga sandaran bukuRp 20.000Jakarta Baratasooy stationary(52)",
+            "price": "Rp 20.000",
+            "image": "https:\/\/ecs7.tokopedia.net\/img\/cache-p\/200-square\/product-1\/2019\/1\/16\/1202234\/1202234_f1812d60-3614-4c60-b788-204f2367003f_1548_1548.jpg"
+        },
+        {
+            "index": 30,
+            "productname": "Buku Sejarah DUNIA Yang Disembunyikan - Jonathan BlackRp 40.000SurakartaMall Buku(9)",
+            "price": "Rp 40.000",
+            "image": "https:\/\/ecs7.tokopedia.net\/img\/cache\/200-square\/product-1\/2018\/12\/29\/938371\/938371_69e950da-d009-49f4-ab61-495155bf75cb_1353_1353.jpg"
+        },
+        {
+            "index": 31,
+            "productname": "Buku Islamic Parenting - Pendidikan Anak Metode NabiRp 78.000Jakarta TimurPustaka Hanif(65)",
+            "price": "Rp 78.000",
+            "image": "https:\/\/ecs7.tokopedia.net\/img\/cache\/200-square\/product-1\/2019\/3\/9\/5380877\/5380877_a455919f-8414-4d6b-b020-16a7839d9671_700_700.jpg"
+        },
+        {
+            "index": 32,
+            "productname": "Buku Islamic Parenting Pendidikan Anak Metode Nabi, jenjang usia anakRp 89.000Jakarta SelatanALIDA(25)",
+            "price": "Rp 89.000",
+            "image": "https:\/\/ecs7.tokopedia.net\/img\/cache\/200-square\/product-1\/2016\/10\/21\/1553566\/1553566_a0519cb5-038d-47f5-822e-f259121f2689.jpg"
+        },
+        {
+            "index": 33,
+            "productname": "IQRA BALITA JILID 1 - Buku Mengenal Huruf Hijaiyah Berwarna BergambarRp 59.900BekasiKinantikomik(69)Grosir",
+            "price": "Rp 59.900",
+            "image": "https:\/\/ecs7.tokopedia.net\/img\/cache\/200-square\/product-1\/2018\/7\/5\/1673527\/1673527_31560694-c368-4d38-89b6-a7d6c1f3d267_1024_1024.jpg"
+        },
+        {
+            "index": 34,
+            "productname": "BUKU TKD PKN STAN BUKU SKD CPNS ASN USM PKN STANRp 70.000Tangerang Selatantoko starbooks(199)Grosir",
+            "price": "Rp 70.000",
+            "image": "https:\/\/ecs7.tokopedia.net\/img\/cache\/200-square\/product-1\/2019\/7\/28\/21116108\/21116108_92ef1199-eaa2-42af-8c94-3d88fd90ff2e_1080_1080"
+        },
+        {
+            "index": 35,
+            "productname": "*HARGA PROMo***RAK BUKU 3 SUSUN KAYU\/RAK SERBA GUNA 3 SUSUNRp 98.500Jakarta BaratCITTA FURNITURE(37)",
+            "price": "Rp 98.500",
+            "image": "https:\/\/ecs7.tokopedia.net\/img\/cache\/200-square\/product-1\/2019\/9\/27\/5488552\/5488552_758027c7-2e74-4603-8593-097e7be96e1f_720_720.jpg"
+        },
+        {
+            "index": 36,
+            "productname": "Buku SD Tematik Kelas 4 Tema 6 7 8 9Rp 80.000Jakarta Selatanbaca lagi(47)",
+            "price": "Rp 80.000",
+            "image": "https:\/\/ecs7.tokopedia.net\/img\/cache\/200-square\/product-1\/2018\/11\/9\/242195784\/242195784_0da5f592-7996-411e-9efb-0b92c2c44814_720_720.jpg"
+        },
+        {
+            "index": 37,
+            "productname": "Buku Psikologi Islam Yang SempurnaRp 40.000YogyakartaToko Muslim Bantul(31)",
+            "price": "Rp 40.000",
+            "image": "https:\/\/ecs7.tokopedia.net\/img\/cache\/200-square\/product-1\/2018\/5\/18\/7879344\/7879344_ca0848ec-59e7-4a59-b135-693e15ebba87_960_1280.jpg"
+        },
+        {
+            "index": 38,
+            "productname": "Buku Purple Cow - Seth GodinRp 65.000Jakarta Baratsmileshop77(27)",
+            "price": "Rp 65.000",
+            "image": "https:\/\/ecs7.tokopedia.net\/img\/cache\/200-square\/product-1\/2019\/1\/18\/2885461\/2885461_1bbb1273-63d6-44a1-a7de-2405d13a5e2b_1080_1080.jpg"
+        },
+        {
+            "index": 39,
+            "productname": "Paket Buku Tematik SD Kelas.1 tema 6,7,8Rp 65.500Jakarta PusatGiri Pustaka(35)",
+            "price": "Rp 65.500",
+            "image": "https:\/\/ecs7.tokopedia.net\/img\/cache\/200-square\/product-1\/2018\/1\/6\/0\/0_48efb3a5-7937-4a8b-859d-1d71c8732a87_516_387.jpg"
+        },
+        {
+            "index": 40,
+            "productname": "Buku The Power Of Now \/ Panduan Pencerahan Spiritual - Eckhart TolleRp 75.000Jakarta Baratsmileshop77(53)",
+            "price": "Rp 75.000",
+            "image": "https:\/\/ecs7.tokopedia.net\/img\/cache\/200-square\/product-1\/2019\/4\/15\/328054876\/328054876_3cbae74b-3238-48f2-a6e3-01d556628e04_1080_1080.jpg"
+        },
+        {
+            "index": 41,
+            "productname": "Peekmybook Great Year 2020 All Year Planner \/ Buku Agenda \/ Buku CatatRp 125.000Tangerang SelatanPinkabulous(27)",
+            "price": "Rp 125.000",
+            "image": "https:\/\/ecs7.tokopedia.net\/img\/cache\/200-square\/product-1\/2019\/11\/20\/2342495\/2342495_5590c844-8571-4b59-85c4-2a96c87e7d6b_959_959"
+        },
+        {
+            "index": 42,
+            "productname": "Rak Buku Anak Jerapah 4 tingkat Bookshelves - TurquoiseRp 370.000BatamMmtoys Indonesia(15)",
+            "price": "Rp 370.000",
+            "image": "https:\/\/ecs7.tokopedia.net\/img\/cache\/200-square\/product-1\/2018\/10\/25\/18453011\/18453011_1b04b526-d85a-40de-96e9-ab6b8e6f7042_685_670"
+        },
+        {
+            "index": 43,
+            "productname": "LERBERG Rak Buku Besi 35x35x148cm, Putih Dekorasi Hiasan Shabby ChicRp 207.500Kab. TangerangTokoPilihanku(100)",
+            "price": "Rp 207.500",
+            "image": "https:\/\/ecs7.tokopedia.net\/img\/cache\/200-square\/product-1\/2018\/12\/21\/5502304\/5502304_6da53ba0-cc3d-4f70-965e-589351eb9e6c_550_550.jpg"
+        },
+        {
+            "index": 44,
+            "productname": "Buku Renungan Ziarah Ziara Batin Tahun 2020|Setahun|Katolik|KatholikRp 63.000Jakarta TimurBerkat Rohani(12)",
+            "price": "Rp 63.000",
+            "image": "https:\/\/ecs7.tokopedia.net\/img\/cache\/200-square\/product-1\/2019\/9\/17\/559569417\/559569417_99b4aefa-3c0a-4c42-9e5d-2e002dc48067_539_539.jpg"
+        },
+        {
+            "index": 45,
+            "productname": "Buku Albuk #2 11:11 by Fiersa Besari (Bonus CD Album Original)Rp 88.000TangerangOPID Merchandise(33)",
+            "price": "Rp 88.000",
+            "image": "https:\/\/ecs7.tokopedia.net\/img\/cache\/200-square\/product-1\/2018\/11\/2\/1502763\/1502763_ced60da8-c344-4f31-93d8-d19ceb1152f0_2048_2048.jpg"
+        },
+        {
+            "index": 46,
+            "productname": "Buku BOYMAN Ragam Latih PramukaRp 25.000Jakarta Pusatchelsea book(17)",
+            "price": "Rp 25.000",
+            "image": "https:\/\/ecs7.tokopedia.net\/img\/cache\/200-square\/product-1\/2019\/1\/26\/2691471\/2691471_176d3cdf-6028-4c02-9bb3-4f75e959933e_750_750.jpg"
+        },
+        {
+            "index": 47,
+            "productname": "Buku Sebuah seni untuk bersikap bodo amat - kertas bookpaperRp 19.000Jakarta PusatTeladan book store(178)",
+            "price": "Rp 19.000",
+            "image": "https:\/\/ecs7.tokopedia.net\/img\/cache\/200-square\/product-1\/2018\/10\/23\/2292920\/2292920_b23455c7-f5ec-429d-88bf-a35dd31ebfc6_1436_1436.jpg"
+        },
+        {
+            "index": 48,
+            "productname": "Buku Dzikir Pagi Petang dan Sesudah Sholat FardhuRp 14.000Jakarta TimurPustaka Hanif(225)Grosir",
+            "price": "Rp 14.000",
+            "image": "https:\/\/ecs7.tokopedia.net\/img\/cache\/200-square\/product-1\/2019\/2\/25\/5380877\/5380877_16df1bc5-b1c4-4aa3-a2f1-4c63a4d79263_700_700.jpg"
+        },
+        {
+            "index": 49,
+            "productname": "Paket 3 buku Robert kiyosaki Rich dad Poor dad Casflow Quadrant busineRp 70.000Jakarta SelatanPariaman Jaya(26)",
+            "price": "Rp 70.000",
+            "image": "https:\/\/ecs7.tokopedia.net\/img\/cache\/200-square\/product-1\/2019\/3\/26\/1019279\/1019279_5db65ae2-1529-4813-8a43-742955cb9786_1560_1560.jpg"
+        },
+        {
+            "index": 50,
+            "productname": "Buku The Interpretation of Financial Statements By Benjamin GrahamRp 52.000Jakarta BaratShowroom Books(10)",
+            "price": "Rp 52.000",
+            "image": "https:\/\/ecs7.tokopedia.net\/img\/cache\/200-square\/product-1\/2019\/11\/6\/1605064\/1605064_75221fd4-7f8e-4413-b32a-5f387e97b0e2_700_700.jpg"
+        },
+        {
+            "index": 51,
+            "productname": "Paket Buku Wangsit Spoiler UTBK SBMPTN 2020 Platinum IPARp 310.000CilegonBuku Wangsit SBMPTN(296)PO",
+            "price": "Rp 310.000",
+            "image": "https:\/\/ecs7.tokopedia.net\/img\/cache\/200-square\/product-1\/2019\/7\/28\/367667\/367667_c7be5382-080a-4901-961b-6f3854eb8014_1187_1187"
+        },
+        {
+            "index": 52,
+            "productname": "Buku Sirah Nabawiyah - Sejarah Lengkap Nabi Muhammad Darul HaqRp 85.000Jakarta TimurPustaka Hanif(602)",
+            "price": "Rp 85.000",
+            "image": "https:\/\/ecs7.tokopedia.net\/img\/cache\/200-square\/product-1\/2019\/5\/5\/5380877\/5380877_6f79474a-9366-4c7c-855f-0a687aeaac38_700_700.jpg"
+        },
+        {
+            "index": 53,
+            "productname": "Buku Tulis Spiral A5 Paradise FlamingoRp 16.500BekasiAlat Tulis Senang(16)",
+            "price": "Rp 16.500",
+            "image": "https:\/\/ecs7.tokopedia.net\/img\/cache\/200-square\/product-1\/2019\/2\/18\/4157832\/4157832_c74c1a19-14a9-4e20-894c-0bd3a4dbfb21_899_596.png"
+        },
+        {
+            "index": 54,
+            "productname": "Magic Coloring Book (Alat Sulap Buku Warna)Rp 30.000Jakarta BaratTrue Magic(45)",
+            "price": "Rp 30.000",
+            "image": "https:\/\/ecs7.tokopedia.net\/img\/cache\/200-square\/product-1\/2018\/9\/21\/24368906\/24368906_26d16e0b-9809-481c-a0af-68bb7e0a75fe_700_700.jpg"
+        },
+        {
+            "index": 55,
+            "productname": "Buku Hypnotic Diary #Diet Kenyang - Dewi HughesRp 35.000SemarangGROSIR BUKU LARIS(12)",
+            "price": "Rp 35.000",
+            "image": "https:\/\/ecs7.tokopedia.net\/img\/cache\/200-square\/product-1\/2019\/8\/7\/19050592\/19050592_38e4a762-6ad3-4d27-bebd-bb651ef19334_755_755"
+        },
+        {
+            "index": 56,
+            "productname": "Buku MEIN KAMPF Hitler narasiRp 40.000SemarangGROSIR BUKU LARIS(30)",
+            "price": "Rp 40.000",
+            "image": "https:\/\/ecs7.tokopedia.net\/img\/cache\/200-square\/product-1\/2018\/2\/25\/263295902\/263295902_24d63488-ee4d-4d67-a13c-c4045cf7a8ba_1000_1333.jpg"
+        },
+        {
+            "index": 57,
+            "productname": "Buku Cerita \/ Dongeng Anak Bergambar Seri Mengenal HewanRp 3.500Jakarta PusatBursa KauKau(502)Grosir",
+            "price": "Rp 3.500",
+            "image": "https:\/\/ecs7.tokopedia.net\/img\/cache\/200-square\/product-1\/2018\/8\/22\/14126605\/14126605_97b4f0e7-e48a-4a75-9f0c-ea7798552438_2048_959.jpg"
+        },
+        {
+            "index": 58,
+            "productname": "Buku sketsa A4 \/ sketch book LYRARp 37.000Jakarta UtaraPJPAPERWORK-ATK&PRINTING(100)Grosir",
+            "price": "Rp 37.000",
+            "image": "https:\/\/ecs7.tokopedia.net\/img\/cache\/200-square\/product-1\/2016\/8\/4\/8363935\/8363935_ac3dcabc-5a22-41dc-88f7-1e69fbf9f64d.jpg"
+        },
+        {
+            "index": 59,
+            "productname": "Buku Cerita Anak Bergambar Seri Anak Muslim Paud Bilingual Full ColourRp 3.500Jakarta UtaraKedai Kadoku(74)",
+            "price": "Rp 3.500",
+            "image": "https:\/\/ecs7.tokopedia.net\/img\/cache\/200-square\/product-1\/2019\/4\/30\/9751897\/9751897_24d0ddfa-e6ea-47e1-ad2a-4bfa6a3ad47b_1919_1919"
+        }
+    ]
+}
